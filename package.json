@@ -1,0 +1,17 @@
+{
+  "name": "bamazon-customer",
+  "version": "1.0.0",
+  "description": "Home work-12",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raju Chamarasinghe",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^6.0.0",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {}
+}
