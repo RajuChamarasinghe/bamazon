@@ -4,8 +4,7 @@
 ##### Step 1. 
 bamazon is a Amazon-like storefront and uses the MySQL database to take in orders from customers and deplete stock from the store's inventory.
 
-![image](https://drive.google.com/uc?export=view&id=1FaDP_eTOkkG3gKvdLVcvvAl1nyX9AAaz) 
-
+![image](https://drive.google.com/uc?export=view&id=1YudoueIhUB7keO0Qx6nNXN83gjlK8MUA) 
 
 ### Setup/Usage/How to 
 ##### Customer View
