@@ -32,22 +32,3 @@ Terminal/Bash commands.
 
 ### FAQ/Troubleshoot  
 Cannot updates the inventory listed in the `products` column through node.
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-<<<<<<< HEAD
-=======
-
->>>>>>> cffe8df3b42760930f2b781b98ee9def2ab8e31b
